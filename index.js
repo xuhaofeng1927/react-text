@@ -4,15 +4,15 @@ import Hello from './Hello';
 import './style.css';
 var h1 = (
   <div>
-    <h1>这是我的女朋友</h1>
+    <h1>这是欣小萌</h1>
     <div className = "box">
-      <img src="./img/9b7010d75cf6df3573c291d7bd2e337e5bd5b82a.jpg" alt=""/>
+      <img src="https://cdn.jsdelivr.net/gh/xuhaofeng1927/react-text@master/img/1578933508726.jpg" alt=""/>
     </div>
     <div className = "box">
-      <img src="./img/1578933508726.jpg" alt=""/>
+      <img src="https://cdn.jsdelivr.net/gh/xuhaofeng1927/react-text@master/img/9b7010d75cf6df3573c291d7bd2e337e5bd5b82a.jpg" alt=""/>
     </div>
     <div className = "box">
-      <img src="" alt="./img/1578933508726.png"/>
+      <img src="https://cdn.jsdelivr.net/gh/xuhaofeng1927/react-text@master/img/f9b631954bf2ac3f551dae898cc2e8b028e2cf6e.png" alt=""/>
     </div>
   </div>
 )

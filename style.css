@@ -1,8 +1,12 @@
 h1, p {
   font-family: Lato;
 }
+div {
+  text-align: center;
+}
 .box {
-  width: 100vh;
+  margin: auto;
+  width: 600px;
 }
 img {
   width: 100%;
